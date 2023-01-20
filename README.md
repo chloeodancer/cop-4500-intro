@@ -13,7 +13,6 @@ GitHub and Python software
 	3rd contains 1 and 3 in a 3x2
 
 # Installation
-	Must create a requirements.txt doc and create a pip freeze > requirements.txt in terminal
-	pip install Numpy
+	pip install Numpy in requirements.txt
 	put python intro_to_python.py into command
 	Click RUN to run program
